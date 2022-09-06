@@ -9,6 +9,7 @@ Several well-known algorithms practice by using C/C++, Python in visual studio c
 
 2. Search Algorithms
    * Linear Search
+   * Binary Search
 
 3. Graph Algorithms
 
